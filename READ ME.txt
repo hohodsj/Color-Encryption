@@ -1,0 +1,12 @@
+My idea is to create a encryption method that is hard for computers to decrypt, but relative easier for human beings. I assigned a color for each letter a-z, and a word will be shown as the mixing color of the letters. As a result, human can see the color and the length of the word, and have relative good understanding of the word. On the other hand, computers need to figure out the combinations of the letters to get the color, and try to find meaning of each combinations. 
+
+Here is how to run the program:
+  First, use python compiler to compile run.py. After compiling the program, you can type in any words or sentences you like. It will automatically convert each word into color block. Press enter to quit the program.
+
+Lastly, all the color libraries are developed by Free Software Foundation.
+
+Credits to Dimitris Zlatanidis:
+
+Project: colored https://github.com/dslackw/colored
+Copyright 2014-2015 Dimitris Zlatanidis <d.zlatanidis@gmail.com>
+License: GNU GENERAL PUBLIC LICENSE
