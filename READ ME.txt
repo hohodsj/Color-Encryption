@@ -8,5 +8,5 @@ Lastly, all the color libraries are developed by Free Software Foundation.
 Credits to Dimitris Zlatanidis:
 
 Project: colored https://github.com/dslackw/colored
-Copyright 2014-2015 Dimitris Zlatanidis <d.zlatanidis@gmail.com>
+Copyright: 2014-2015 Dimitris Zlatanidis <d.zlatanidis@gmail.com>
 License: GNU GENERAL PUBLIC LICENSE
